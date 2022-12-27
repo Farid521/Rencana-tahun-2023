@@ -4,8 +4,10 @@
   * node.js
   * react.js
   * express.js
+  * angular
   * dll...
  - python
  - tensorflow
  - php
+  *laravel
  - mysql
